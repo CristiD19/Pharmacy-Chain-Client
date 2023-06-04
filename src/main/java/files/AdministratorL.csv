@@ -1,0 +1,3 @@
+Tabel Administrator, Creare Utilizator, Citire Utilizator, Actualizare Utilizator, Sterge Utilizator, Nume: ,Cont:, Parola:, Rol:, Lista Utilizatori, FarmacieId:, Id:, Filtrare Utilizatori,ANGAJAT,ADMINISTRATOR,MANAGER, Rol_utilizator, Id, Cont, Nume, Parola, SMS, Email
+Administrator Table, Create User, Read User, Update User, Delete User, Name: ,Account:, Password:, Role:, List of Users, PharmacyId:, Id:, Filter Users, EMPLOYEE, ADMINISTRATOR, MANAGER, User_Role, Id, Account, Name, Password, SMS, Email
+Administranto-Tabelo, Krei Uzanton, Legi Uzanton, Ĝisdatigi Uzanton, Forigi Uzanton, Nomo: ,Konto:, Pasvorto:, Rolo:, Listo de Uzantoj, PharmacyId:, Id:, Filtri Uzantoj, DUNGISTO, ADMINISTRO, MANAGER, Uzanto_Rolo, Idaro, Konto, Nomo, Pasvorto, SMS, Email
